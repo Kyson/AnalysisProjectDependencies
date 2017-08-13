@@ -2,7 +2,7 @@
 
 ![project_analysis_showcase](https://raw.githubusercontent.com/Kyson/AnalysisProjectDependencies/master/ART/project_analysis_showcase.gif)
 
-<embed src='http://player.youku.com/player.php/sid/XMjk2NzI5OTU0OA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
+[![project_analysis_showcase](https://img.youtube.com/vi/v9Xzxle-9v0/0.jpg)](https://www.youtube.com/watch?v=v9Xzxle-9v0)
 
 ## QuickStart
 
