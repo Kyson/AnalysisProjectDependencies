@@ -1,0 +1,22 @@
+{
+  "name": "analysis_project_dependencies",
+  "authors": [
+    "hui.zhao <hui.zhao@ctrip.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "cytoscape": "^3.1.4",
+    "jquery": "^3.2.1"
+  }
+}

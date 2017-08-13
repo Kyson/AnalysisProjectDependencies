@@ -1,0 +1,23 @@
+[
+  {
+    "name": "module1",
+    "path": "/d/d/d/",
+    "dependencies": [
+      "module2",
+      "module3"
+    ]
+  },
+  {
+    "name": "module2",
+    "path": "/d/d/e/",
+    "dependencies": [
+      "module1"
+    ]
+  },
+  {
+    "name": "module3",
+    "path": "/d/d/f/",
+    "dependencies": [
+    ]
+  }
+]
