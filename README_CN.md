@@ -1,5 +1,7 @@
 # 项目依赖分析
 
+![project_analysis_showcase](https://raw.githubusercontent.com/Kyson/AnalysisProjectDependencies/master/ART/project_analysis_showcase.gif)
+
 ## 快速开始
 
 ### 0x00

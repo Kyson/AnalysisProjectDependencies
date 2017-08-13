@@ -1,5 +1,7 @@
 # AnalysisProjectDependencies
 
+![project_analysis_showcase](https://raw.githubusercontent.com/Kyson/AnalysisProjectDependencies/master/ART/project_analysis_showcase.gif)
+
 ## QuickStart
 
 ### 0x00
