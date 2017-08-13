@@ -10,18 +10,16 @@
 
 ### 0x01
 
-- config modules at `analysis_dependencies.conf`,under section `java_modules`,format: name = module path,name must be unique.
+- Configure the module in the `analysis_dependencies.conf` file,under section `java_modules`,format: name = module path,name must be unique.
 
 ### 0x02
+
+if macOS or linux,just run `source generate_and_host.sh`
+for other os,follow these steps:
 
 - run `python entrance_generate.py`,it will generate json file in output dir.
 - run `python -m SimpleHTTPServer 8080`.
 - open `http://localhost:8080/` in browser.
-
-or 
-
-if macOS or linux,just run
-
 
 ## Features
 
