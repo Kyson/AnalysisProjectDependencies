@@ -2,6 +2,8 @@
 
 ![project_analysis_showcase](https://raw.githubusercontent.com/Kyson/AnalysisProjectDependencies/master/ART/project_analysis_showcase.gif)
 
+<iframe height=498 width=510 src='http://player.youku.com/embed/XMjk2NzI5OTU0OA==' frameborder=0 'allowfullscreen'></iframe>
+
 ## QuickStart
 
 ### 0x00
