@@ -1,6 +1,10 @@
 # AnalysisProjectDependencies
 
+中文README：[https://raw.githubusercontent.com/Kyson/AnalysisProjectDependencies/master/README_CN.md](https://raw.githubusercontent.com/Kyson/AnalysisProjectDependencies/master/README_CN.md)
+
 ![project_analysis_showcase](https://raw.githubusercontent.com/Kyson/AnalysisProjectDependencies/master/ART/project_analysis_showcase.gif)
+
+for more detail, go to youtube:
 
 [![project_analysis_showcase](https://img.youtube.com/vi/v9Xzxle-9v0/0.jpg)](https://www.youtube.com/watch?v=v9Xzxle-9v0)
 
