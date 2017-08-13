@@ -1,6 +1,6 @@
 # 项目依赖分析
 
-English README:[https://raw.githubusercontent.com/Kyson/AnalysisProjectDependencies/master/README.md](https://raw.githubusercontent.com/Kyson/AnalysisProjectDependencies/master/README.md)
+English README:[README](https://github.com/Kyson/AnalysisProjectDependencies/blob/master/README.md)
 
 ![project_analysis_showcase](https://raw.githubusercontent.com/Kyson/AnalysisProjectDependencies/master/ART/project_analysis_showcase.gif)
 
