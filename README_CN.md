@@ -1,5 +1,7 @@
 # 项目依赖分析
 
+项目用于分析Java,Android等项目的依赖，后续可能会添加一些其他语言和其他分析功能，只需要配置一下项目的模块就可以分析出模块之间的依赖关系并进行网络图的展示。
+
 English README:[README](https://github.com/Kyson/AnalysisProjectDependencies/blob/master/README.md)
 
 ![project_analysis_showcase](https://raw.githubusercontent.com/Kyson/AnalysisProjectDependencies/master/ART/project_analysis_showcase.gif)
@@ -33,6 +35,10 @@ English README:[README](https://github.com/Kyson/AnalysisProjectDependencies/blo
 
 - Analysis Dependencies
 - and so on...
+
+## TODO 
+
+- 查找依赖某一个模块的其他模块及依赖它的文件列表
 
 
 

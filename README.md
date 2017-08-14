@@ -2,6 +2,8 @@
 
 中文README：[README_CN](https://github.com/Kyson/AnalysisProjectDependencies/blob/master/README_CN.md)
 
+This project is applied to the analysis project of Java, Android, etc,will support other languages and other subsequent analyses function in the future,u only need to configure the project module,then it can display the project's dependency network diagram.
+
 ![project_analysis_showcase](https://raw.githubusercontent.com/Kyson/AnalysisProjectDependencies/master/ART/project_analysis_showcase.gif)
 
 for more detail, go to youtube:
