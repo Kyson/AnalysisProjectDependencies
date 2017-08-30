@@ -1,6 +1,8 @@
-package cn.hikyson.projectforanalysis.business.fight;
+package cn.hikyson.projectforanalysis.business
+.fight;
 
-import cn.hikyson.projectforanalysis.middleware.network.Request;
+import cn.hikyson.projectforanalysis.middleware.network
+.Request;
 import cn.hikyson.projectforanalysis.middleware.share.Share;
 
 /**

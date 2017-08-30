@@ -38,7 +38,10 @@ English README:[README](https://github.com/Kyson/AnalysisProjectDependencies/blo
 
 ## TODO 
 
+- 一行代码的界定规则(现在是换行，不准确)
 - 查找依赖某一个模块的其他模块及依赖它的文件列表
+- 模块内部所有文件的依赖
+- 文件逻辑代码行数解析（注释、实际代码、注解...）
 
 
 
