@@ -2,7 +2,7 @@
 import ConfigParser
 import json
 
-from analysis_module import analysis_javas
+from analysis_project_dependencies.analysis_module import analysis_javas
 
 
 class MFile():
@@ -157,7 +157,7 @@ def java_output(java_modules):
     output = []
     for j_m in java_modules:
         output.append(j_m.to_simple_dict())
-    with open('output/module_dependencies_repr.json', 'w') as json_file:
+    with open('../output/module_dependencies_repr.json', 'w') as json_file:
         json_file.write(json.dumps(output))
 
 

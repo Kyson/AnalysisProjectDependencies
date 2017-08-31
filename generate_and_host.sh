@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-python entrance_generate.py
+python analysis_project_dependencies/entrance_generate.py
 python -m SimpleHTTPServer 8080
